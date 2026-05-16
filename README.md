@@ -1,0 +1,2 @@
+# learning_FEM_tools
+学习abaqus和ansys过程中的一些文件
